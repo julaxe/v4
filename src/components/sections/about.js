@@ -136,30 +136,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi I’m Julian, also known as Julaxe in the gamer world. I’m a professional gamer and a
+              Mechatronic engineer, currently studying Game programming in George Brown College. I
+              love to code and challenge myself with new adventures and experiences. I try to learn
+              something new everyday and to enjoy every moment of life.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              In this webpage you can find my resume and my portfolio with some of the games that
+              I’ve done. If you want to contact me, please feel free to use any social media or send
+              me an email at <a href={`mailto:${'julaxe@hotmail.com'}`}>julaxe@hotmail.com</a>.
+              Let’s connect!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
